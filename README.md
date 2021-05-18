@@ -1,5 +1,6 @@
 <h1 align="center">
     <img src="gif/chale_hotel.gif"> 
+    <br>
     <figcaption>Site em execução</figcaption>
 </h1>
 
