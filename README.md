@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    <a href="https://portfoliodanielalmeida.000webhostapp.com/projetos_udemy/Projetos_CSS/Projeto_Chal%C3%A9_Hotel/index.html">Acessar demonstração</a>
+    <a href="https://portfoliodanielalmeida.000webhostapp.com/projetos/projetos_css/projeto_chale_hotel/">Acessar demonstração</a>
 </h3>
 
 ---
